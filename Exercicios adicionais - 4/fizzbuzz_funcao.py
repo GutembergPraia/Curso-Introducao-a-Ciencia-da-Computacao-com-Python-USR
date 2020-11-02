@@ -38,8 +38,4 @@ def fizzbuzz(num:int):
         return "FizzBuzz"
     elif not(numDiv3 and numDiv5):
         return num
-
-print(fizzbuzz(3))
-print(fizzbuzz(5))
-print(fizzbuzz(15))
-print(fizzbuzz(4))
+        
